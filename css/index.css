@@ -109,6 +109,12 @@ nav img{
 
 /* media queries  */
 
+@media screen and (min-width: 900px){
+    body{
+        background-position: right top;
+    }
+}
+
 @media screen and (max-width: 963px) {
     .left-section {
         margin-top: 10px;
